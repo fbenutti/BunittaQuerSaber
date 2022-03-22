@@ -1,0 +1,7 @@
+.wrapper {
+  @apply bg-cinza-claro p-4 drop-shadow-md;
+}
+
+.contenedor {
+  @apply container mx-auto;
+}
